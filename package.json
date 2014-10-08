@@ -1,0 +1,24 @@
+{
+  "name": "ds-ng-mocks",
+  "version": "0.0.0",
+  "description": "Angular Mock Extensions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:DavidSouther/ds-ng-mock.git"
+  },
+  "keywords": [
+    "angular",
+    "mock",
+    "testing"
+  ],
+  "author": "David Souther <davidsouther@gmail.com> (https://davidsouther.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidSouther/ds-ng-mock/issues"
+  },
+  "homepage": "https://github.com/DavidSouther/ds-ng-mock"
+}
