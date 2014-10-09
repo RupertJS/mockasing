@@ -1,4 +1,5 @@
 module.exports = (grunt)->
+  grunt.loadNpmTasks 'grunt-release'
 
   butt = []
   unless process.env.DEBUG
