@@ -1,0 +1,11 @@
+language: node_js
+node_js:
+- '0.10'
+before_script:
+- export DISPLAY=:99.0
+- sh -e /etc/init.d/xvfb start
+env: TRAVIS=1
+notifications:
+  slack:
+    rooms:
+      secure: WEN1R7M2jnBNZgNGtljxtGb5Kg2WbWf9q6PgX4pUJwn+d4EyMq7Pa9ko8tTDXCq5T0HgCEcqqNUzEoFcqSohMwrlnNvfcfe0rUQ7J4pm5JKGybh0oD442HbeQxQItB14Pb3qDq+aTrKtrGWEFRs3kEGzjniyeADuiSUsxRBoCcY=
