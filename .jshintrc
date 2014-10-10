@@ -13,9 +13,6 @@
   "latedef": true,
   "globals": {
     "angular": true,
-    "__dirname": true,
-    "module": true,
-    "require": true,
-    "EPSILON": true
+    "inject": true
   }
 }

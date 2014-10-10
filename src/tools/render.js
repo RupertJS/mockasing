@@ -1,4 +1,3 @@
-/* global inject */
 /**
  * Utility function, to create an HTML Attribute list out of a POJO.
  */
