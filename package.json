@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:DavidSouther/ds-ng-mock.git"
+    "url": "git@github.com:DavidSouther/mockasing.git"
   },
   "keywords": [
     "angular",
@@ -18,9 +18,9 @@
   "author": "David Souther <davidsouther@gmail.com> (https://davidsouther.com/)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DavidSouther/ds-ng-mock/issues"
+    "url": "https://github.com/DavidSouther/mockasing/issues"
   },
-  "homepage": "https://github.com/DavidSouther/ds-ng-mock",
+  "homepage": "https://github.com/DavidSouther/mockasing",
   "devDependencies": {
     "angular-builds": "^1.2.26",
     "grunt": "^0.4.5",
