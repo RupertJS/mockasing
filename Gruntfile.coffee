@@ -38,8 +38,8 @@ module.exports = (grunt)->
             'src/tools/*.js': ['coverage']
             'src/test/*.coffee': ['coffee']
           files: [
-              'node_modules/angular-builds/angular.js'
-              'node_modules/angular-builds/angular-mocks.js'
+              'node_modules/angular/angular.js'
+              'node_modules/angular-mocks/angular-mocks.js'
               'src/tools/*.js'
               'src/test/*.coffee'
           ]
