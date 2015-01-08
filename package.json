@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:DavidSouther/mockasing.git"
+    "url": "git@github.com:RupertJS/mockasing.git"
   },
   "keywords": [
     "angular",
@@ -18,9 +18,9 @@
   "author": "David Souther <davidsouther@gmail.com> (https://davidsouther.com/)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DavidSouther/mockasing/issues"
+    "url": "https://github.com/RupertJS/mockasing/issues"
   },
-  "homepage": "https://github.com/DavidSouther/mockasing",
+  "homepage": "https://github.com/RupertJS/mockasing",
   "devDependencies": {
     "angular": "^1.3.0",
     "angular-mocks": "^1.3.0",
