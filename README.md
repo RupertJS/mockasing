@@ -19,6 +19,7 @@ comment in the rendered repeater.
 
 ## Changelog
 
+* **0.1.1** *2015-01-09* Moved httpBackend to mockBackend.
 * **0.0.3** *2014-10-10* Added httpBackend helper.
 * **0.0.2** *2014-10-09* Publishing Snafu.
 * **0.0.1** *2014-10-09* Render functionality.
