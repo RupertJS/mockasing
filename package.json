@@ -1,6 +1,6 @@
 {
   "name": "mockasing",
-  "version": "0.0.3",
+  "version": "0.1.0-rc",
   "description": "Angular Mock Extensions",
   "main": "index.js",
   "scripts": {

@@ -2,7 +2,7 @@
  * Only attach these functions is Angular Mocks has already been included.
  */
 if(typeof angular.mock !== 'undefined' && angular.mock !== null) {
-  window.httpBackend = angular.mock.httpBackend =
+  window.mockBackend = angular.mock.mockBackend =
   function mockHttpBackend(data, afterEach){
     if( null == afterEach ){
       afterEach = angular.noop;
